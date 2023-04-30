@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+>本项目为yourspan项目对应的前端
